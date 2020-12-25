@@ -23,4 +23,8 @@ html {
  #dolphin  {transform: rotate(0.5turn);}
 }
 
-
+@media only screen and (max-width: 406px){
+  #dolphin {
+    #dolphin  {transform: rotate(0.5turn);} 
+  }
+}
